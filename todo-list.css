@@ -117,6 +117,9 @@
 
 /* Task List View */
 
+.home-container{
+    margin-bottom: 150px;
+}
 .upper-container-New{
     width: 50%;
     height: 100%;
@@ -148,7 +151,7 @@
     position: relative;
 }
 #circle1{
-    margin-top: -10px;
+    margin-top: -28px;
     margin-left: 40.5%;
     position: absolute;
 }
@@ -156,7 +159,7 @@
     position: absolute;
     width: 50%;
     height: 100%;
-    top: -12px;
+    top: -30px;
     right: 7%;
     font-size: 30px;
     font-family: segoe UI;
@@ -171,7 +174,7 @@
     height: 20%;
     margin: 0px 130px auto;
     position: relative;
-    top: 90px;
+    top: 65px;
     left: 29%;
 }
 .card2{
@@ -244,7 +247,7 @@
 .pop-up{
     position: absolute;
     left: 35.7%;
-    top: 24%;
+    top: 185%;
     height: 22vh;
     width: 23%;
     border: 1.5px solid purple;
@@ -293,7 +296,7 @@
 .pop-up2{
     position: absolute;
     left: 33%;
-    top: 24%;
+    top: 277%;
     height: 22vh;
     width: 23%;
     border: 1.5px solid purple;
